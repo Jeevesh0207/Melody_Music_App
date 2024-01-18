@@ -15,3 +15,21 @@
   <img src="./Screenshot/Screenshot_1705412928.png" width="30%" />
   <img src="./Screenshot/Screenshot_1705412942.png" width="30%" />
 </p>
+
+## 🎵 GrooveHub - Your Ultimate Music Experience 🎧
+- 🆓 Totally Free
+- 🎶 Unlimited Songs
+- 📥 Download Tracks
+- ❤️ Add to Favorites
+- ⏯️ Playback Control
+- 🔍 Search Any Song
+- 📃 With Lyrics
+- 🎶 Artist Playlists
+- 🎨 Dynamic Background
+- 🎉 And Many More 🚀
+
+## Installation
+
+[<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
+    alt="Get it on GitHub"
+    height="80">](https://github.com/vfsfitvnm/ViMusic/releases/latest)
